@@ -32,9 +32,13 @@
         flex-direction: column;
         align-items: center;
         padding: 10px;
+        width: 100%; /* Adiciona largura total para centralizar no layout */
     }
     .icon-container {
         margin: 5px;
+        width: 100%; /* Adiciona largura total para centralizar no layout */
+        display: flex; /* Permite centralizar os ícones */
+        justify-content: center; /* Centraliza os ícones no container */
     }
     .icon-button {
         background-color: transparent;
