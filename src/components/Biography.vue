@@ -63,7 +63,7 @@ hr {
 @media (max-width: 1024px) {
     .biography {
         max-width: 100%;
-        padding: 10px;
+        align-items: center;
     }
     .subtitle, .skills-button {
         width: 100%;

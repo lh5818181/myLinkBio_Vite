@@ -24,12 +24,13 @@ export default {
 
 <style>
 #app {
-  background-color: #F4F4F4;
+  background-color: #fff;
   display: flex;
   flex-direction: row;
   height: 100vh;
   justify-content: space-around;
   align-items: center;
+  flex-direction: column;
 }
 .container {
   display: flex;
