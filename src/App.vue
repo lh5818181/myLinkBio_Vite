@@ -48,8 +48,5 @@ export default {
     flex-direction: column;
     align-items: center;
   }
-  .icons, .profile-picture, .biography {
-    width: 100%; /* Adiciona largura total para centralizar no layout */
-  }
 }
 </style>
