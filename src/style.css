@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+button {
+  font-family: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.icons img {
+  max-width: 100%;
+}
+
+.biography {
+  text-align: center;
+}
+
+.skills-button {
+  padding: 10px 20px;
+  background-color: #0984E3;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .icons {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .profile-picture img {
+    max-width: 100px;
+  }
+
+  .skills-button {
+    width: 100%;
+  }
+}
