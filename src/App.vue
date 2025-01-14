@@ -26,11 +26,10 @@ export default {
 #app {
   background-color: #fff;
   display: flex;
-  flex-direction: row;
+  flex-direction: column; /* Corrigido para garantir que os elementos fiquem em coluna */
   height: 100vh;
   justify-content: space-around;
   align-items: center;
-  flex-direction: column;
 }
 .container {
   display: flex;

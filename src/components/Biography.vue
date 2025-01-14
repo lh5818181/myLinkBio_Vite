@@ -7,7 +7,7 @@
         <p>Olá! Eu sou <span class="name">Luis Henrique Vieira de Oliveira</span> um entusiasta de tecnologia com 25 anos, sempre em busca de ideias inovadoras. Tenho habilidades em desenvolvimento web e sou movido pela paixão por criar soluções que fazem a diferença.</p>
         <p>Acredito que a tecnologia e a inovação são catalisadores de grandes transformações, e minha missão é impulsionar mudanças positivas e impactantes. Estou comprometido com o aprendizado contínuo, enfrentando desafios e contribuindo para avanços significativos no mundo do desenvolvimento.</p>
         <hr />
-        <a href="https://www.example.com/minhas-habilidades" target="_blank" rel="noopener noreferrer"> 
+        <a href="https://main.djaerr18p7b3q.amplifyapp.com/" target="_blank" rel="noopener noreferrer"> 
             <button class="skills-button">MINHAS HABILIDADES</button> 
         </a>
     </div>
