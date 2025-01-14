@@ -6,7 +6,7 @@
       <Biography />
     </div>
     <footer class="footer">
-      <p>Todos os direitos reservados</p>
+      <p>© Todos os direitos reservados</p>
     </footer>
   </div>
 </template>
@@ -54,11 +54,10 @@ export default {
 }
 
 .footer {
-  margin-top: auto;
-  text-align: center;
-  width: 100%;
-  background-color: #333;
-  color: #fff;
-  padding: 10px 0;
+    text-align: center;
+    width: 30%;
+    background-color: #bdc3c7;
+    border-radius: 10px;
+    color: #000000;
 }
 </style>
