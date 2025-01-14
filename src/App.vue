@@ -5,6 +5,9 @@
       <ProfilePicture />
       <Biography />
     </div>
+    <footer class="footer">
+      <p>Todos os direitos reservados</p>
+    </footer>
   </div>
 </template>
 
@@ -26,9 +29,9 @@ export default {
 #app {
   background-color: #fff;
   display: flex;
-  flex-direction: column; /* Corrigido para garantir que os elementos fiquem em coluna */
+  flex-direction: column;
   height: 100vh;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 .container {
@@ -48,5 +51,14 @@ export default {
     flex-direction: column;
     align-items: center;
   }
+}
+
+.footer {
+  margin-top: auto;
+  text-align: center;
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
 }
 </style>
