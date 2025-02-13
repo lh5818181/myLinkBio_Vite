@@ -8,7 +8,10 @@
         <p>Acredito que a tecnologia e a inovação são catalisadores de grandes transformações, e minha missão é impulsionar mudanças positivas e impactantes. Estou comprometido com o aprendizado contínuo, enfrentando desafios e contribuindo para avanços significativos no mundo do desenvolvimento.</p>
         <hr />
         <a href="https://main.djaerr18p7b3q.amplifyapp.com/" target="_blank" rel="noopener noreferrer"> 
-            <button class="skills-button">MINHAS HABILIDADES</button> 
+            <button class="skills-button">Minhas habilidades</button>
+        </a>
+        <a href="https://forms.gle/nCmqmdzvENkontfH6" target="_blank">
+            <button class="skills-button">Solicitação de Serviço</button>
         </a>
     </div>
 </template>
